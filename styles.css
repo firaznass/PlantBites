@@ -208,6 +208,10 @@ body{
     margin-top: 0%;
 }
 
+.overvjfb section:nth-child(2) h2{
+    text-align: center;
+}
+
 .overvjfb section:nth-child(4) h4{
     max-width: fit-content;
 }
